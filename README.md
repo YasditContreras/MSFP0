@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Kenia Yasdit Contreras Jiménez \[l23212188@tijuana.tecn.mx]; l23212188
+Kenia Yasdit Contreras Jiménez \[l23212188@tijuana.tecn.mx]; 23212188
 
 Modelado de Sistemas Fisiológicos
 
